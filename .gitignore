@@ -1,0 +1,5 @@
+# Ignore node_mode 
+/node_modules
+# Ignore the default SQLite database.
+/db/*.sqlite3
+
